@@ -392775,6 +392775,22 @@
       "stars": 0,
       "starsUpdated": "2026-10-25",
       "pushedAt": "2026-10-19"
+    },
+    {
+      "name": "dsh-subagent-cost",
+      "repo": "Synapse-ACh/dsh-subagent-cost",
+      "description": "Counts the subagent sessions a conversation spawned and what they cost in CNY: a dock pill for the live total, and a per-turn panel attributing every child to the message that dispatched it.",
+      "category": "plugin",
+      "tags": [
+        "usage",
+        "ui"
+      ],
+      "added": "2026-10-24",
+      "lastVerified": "2026-10-26",
+      "verifiedAgainst": "0.2.1-rc.3",
+      "status": "verified",
+      "evidence": "package.json#dsh.bundle",
+      "npm": "dsh-subagent-cost"
     }
   ]
 }
